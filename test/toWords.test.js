@@ -19,3 +19,7 @@ test('1789 = satu ribu tujuh ratus lapan puluh sembilan', () => {
 test('100189 = satu ratus ribu, satu ratus lapan puluh sembilan', () => {
     expect(toWords(100189)).toBe('satu ratus  ribu, satu ratus lapan puluh sembilan');
 });
+
+test('-103 = negatif satu ratus tiga', () => {
+    expect(toWords(-103)).toBe('negatif satu ratus tiga');
+});
