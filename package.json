@@ -6,6 +6,9 @@
   "scripts": {
     "test": "jest --verbose"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
