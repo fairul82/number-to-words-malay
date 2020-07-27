@@ -6,3 +6,7 @@ It's based on original english version package from https://github.com/marlun78/
 ### API
 
 #### `toWords(number)`
+```js
+var generateWords = require('number-to-words-malay');
+generateWords.toWords(101); // => “satu ratus satu”
+```
