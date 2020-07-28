@@ -37,7 +37,7 @@ function toWords(number) {
     }
 
     if (number < 0) {
-        words.push(' negatif');
+        words.push('negatif ');
         number = Math.abs(number);
     }
 
