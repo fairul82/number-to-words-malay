@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/fairul82/number-to-words-malay.svg?branch=master)](https://travis-ci.com/fairul82/number-to-words-malay)
+[![Build Status](https://travis-ci.com/fairul82/number-to-words-malay.svg?branch=master)](https://travis-ci.com/fairul82/number-to-words-malay) [![CodeFactor](https://www.codefactor.io/repository/github/fairul82/number-to-words-malay/badge/master)](https://www.codefactor.io/repository/github/fairul82/number-to-words-malay/overview/master)
 
 # Number to Words in Malay
 
